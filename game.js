@@ -1,7 +1,7 @@
 
 window.onload = function(){
   alert("Greetings to the panel members!!");
-  alert("The team Lunatic Duo is happy to have developed this interesting and challenging game!")
+  alert("The team Lunatic Duo is happy to have developed this interesting and challenging game!!")
 
 
 String.prototype.repeat =  String.prototype.repeat ||
