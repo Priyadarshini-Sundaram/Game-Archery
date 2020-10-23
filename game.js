@@ -1,7 +1,7 @@
 
 window.onload = function(){
   alert("All the best👍");
-  alert("Enjoy the game🏹")
+  alert("Enjoy the game🏹");
 
 
 String.prototype.repeat =  String.prototype.repeat ||
