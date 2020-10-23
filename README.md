@@ -1,2 +1,2 @@
 # Game-Archery
-My game Dhanush &amp; Shara!!!
+My game Dhanush Shara!!!
